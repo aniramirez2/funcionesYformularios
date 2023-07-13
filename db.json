@@ -1,0 +1,47 @@
+{
+  "productos": [
+    {
+      "nombre": "Papaya",
+      "precio": "5000",
+      "cantidad": "1",
+      "categoria": "verduras",
+      "id": 3
+    },
+    {
+      "nombre": "papay",
+      "precio": "5000",
+      "cantidad": "1",
+      "categoria": "verduras",
+      "id": 4
+    },
+    {
+      "nombre": "tomate",
+      "precio": "2000",
+      "cantidad": "1",
+      "categoria": "verduras",
+      "id": 5
+    },
+    {
+      "nombre": "naranja",
+      "precio": "2000",
+      "cantidad": "1",
+      "categoria": "verduras",
+      "id": 6
+    },
+    {
+      "nombre": "Frijoles",
+      "precio": "18000",
+      "cantidad": "1",
+      "categoria": "granos",
+      "id": 7
+    },
+    {
+      "nombre": "Lentejas",
+      "precio": "4000",
+      "cantidad": "1",
+      "categoria": "granos",
+      "id": 8
+    }
+  ],
+  "compras": []
+}

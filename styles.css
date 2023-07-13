@@ -1,3 +1,14 @@
 .titulo {
     color: blueviolet;
 }
+
+@media (max-width: 685px) {
+    .titulo {
+        text-align: left !important;
+    }
+}
+
+.custom-card {
+    width: 500px;
+    color: blue;
+}
